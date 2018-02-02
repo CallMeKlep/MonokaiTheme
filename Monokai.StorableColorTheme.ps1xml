@@ -158,23 +158,23 @@
     </Color>
     <Color>
       <A>255</A>
-      <R>1</R>
-      <G>36</G>
-      <B>86</B>
+      <R>42</R>
+      <G>42</G>
+      <B>42</B>
       <ScA>1</ScA>
-      <ScR>0.000303527</ScR>
-      <ScG>0.017641956</ScG>
-      <ScB>0.0930589661</ScB>
+      <ScR>0.0231533684</ScR>
+      <ScG>0.0231533684</ScG>
+      <ScB>0.0231533684</ScB>
     </Color>
     <Color>
       <A>255</A>
-      <R>1</R>
-      <G>36</G>
-      <B>86</B>
+      <R>42</R>
+      <G>42</G>
+      <B>42</B>
       <ScA>1</ScA>
-      <ScR>0.000303527</ScR>
-      <ScG>0.017641956</ScG>
-      <ScB>0.0930589661</ScB>
+      <ScR>0.0231533684</ScR>
+      <ScG>0.0231533684</ScG>
+      <ScB>0.0231533684</ScB>
     </Color>
     <Color>
       <A>255</A>
@@ -807,7 +807,7 @@
       <ScB>0</ScB>
     </Color>
   </Values>
-  <Name>Monokai</Name>
+  <Name>(Customized Theme)</Name>
   <FontFamily>Consolas</FontFamily>
   <FontSize>10</FontSize>
 </StorableColorTheme>
